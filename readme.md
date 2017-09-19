@@ -4,7 +4,7 @@ This program blurs and detects the edge of tiff images.
 
 javac -cp "jai_core.jar:jai_codec.jar" *.java
 
-# To blur an imag
+# To blur an image
 
 java Blur image.tiff 3
 
